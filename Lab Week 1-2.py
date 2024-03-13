@@ -44,6 +44,7 @@ def main():
 
         if input("Do you want to play again? (yes/no): ").strip().lower() != "yes":
             break
+        print("test")
 
 if __name__ == "__main__":
     main()
